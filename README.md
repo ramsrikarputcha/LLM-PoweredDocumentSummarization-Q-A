@@ -1,4 +1,5 @@
-# Assignment4
+# LLM-Powered Document Summarization and Q&A
+
 
 
 ## Links 
@@ -7,7 +8,7 @@ Codelabs : https://codelabs-preview.appspot.com/?file_id=1ibR7swpZmM5--BO9HV6jA_
 Front-end (Stremlit): https://damgassignment4-dvnn8diaea6xjifv7hfxbp.streamlit.app/
 
 Back-end (Fast-api): https://api-695260164759.us-central1.run.app
-
+Live Demo: https://damgassignment4-dvnn8diaea6xjifv7hfxbp.streamlit.app
 ---
 
 ## 📌 Problem Statement
