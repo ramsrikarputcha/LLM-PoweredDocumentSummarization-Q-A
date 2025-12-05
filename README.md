@@ -117,12 +117,3 @@ View Logs & Task Status: Monitor the processing status of summarization and Q&A 
 - https://docs.x.ai/docs/tutorial
 
 ---
-
-## 👥 Team Information
-| Name            | Student ID    | Contribution |
-|----------------|--------------|--------------|
-| **Pranjal Mahajan** | 002375449  | 33.33% |
-| **Srushti Patil**  | 002345025  | 33.33% |
-| **Ram Putcha**  | 002304724  | 33.33% |
-
----
